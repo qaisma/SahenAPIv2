@@ -1,0 +1,2 @@
+﻿generate DB context using this command:
+Scaffold-DbContext "Data Source=QTHINKPAD;Initial Catalog=SahenDB;Integrated Security=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir DB
